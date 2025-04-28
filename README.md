@@ -15,8 +15,10 @@ CS Graduate from Florida State University May 2025 ⭐
 
 Currently working on a 2D life-sim game in Godot <img src="https://img.itch.zone/aW1hZ2UvOTY5NTgyLzU1OTg4NjkuZ2lm/794x1000/BqczAb.gif" width="20" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanFreyman&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanFreyman&layout=compact&theme=synthwave&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanFreyman&layout=compact&theme=synthwave&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanFreyman&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 _"Believe there is good in the world."_ 🌟
 
