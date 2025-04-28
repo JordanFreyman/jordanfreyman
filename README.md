@@ -1,6 +1,6 @@
 ## Hi !!👋
 ### I'm Jordan. Welcome to my GitHub! <img src="https://web.archive.org/web/20091026232923/http://www.geocities.com/Tokyo/Market/7773/star.gif" width="20" />
-CS Graduate from Florida State University May 2025 ⭐
+CS Graduate from Florida State University May 2025
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -13,7 +13,7 @@ CS Graduate from Florida State University May 2025 ⭐
 ![Always Learning](https://img.shields.io/badge/Always-Learning-pink?style=flat)
 ![Bug Lover](https://img.shields.io/badge/Bug%20Lover-%F0%9F%90%9C-pink?style=flat)
 
-Currently working on a 2D life-sim game in Godot <img src="https://img.itch.zone/aW1hZ2UvOTY5NTgyLzU1OTg4NjkuZ2lm/794x1000/BqczAb.gif" width="20" />
+Currently working on a 2D point-and-click game in Godot <img src="https://img.itch.zone/aW1hZ2UvOTY5NTgyLzU1OTg4NjkuZ2lm/794x1000/BqczAb.gif" width="20" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanFreyman&layout=compact&theme=synthwave&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
