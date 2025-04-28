@@ -1,5 +1,5 @@
 ## Hi !!👋
-### I'm Jordan. Welcome to my GitHub! <img src="https://web.archive.org/web/20091026165024/http://www.geocities.com/simscenter2000/starsmall.gif" width="20" />
+### I'm Jordan. Welcome to my GitHub! <img src="https://web.archive.org/web/20091026232923/http://www.geocities.com/Tokyo/Market/7773/star.gif" width="20" />
 CS Graduate from Florida State University May 2025 ⭐
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
