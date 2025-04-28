@@ -1,5 +1,5 @@
 ## Hi !!👋
-### I'm Jordan. Welcome to my GitHub! 
+### I'm Jordan. Welcome to my GitHub! <img src="https://web.archive.org/web/20091026165024/http://www.geocities.com/simscenter2000/starsmall.gif" width="20" />
 CS Graduate from Florida State University May 2025 ⭐
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,6 +24,7 @@ _"Believe there is good in the world."_ 🌟
 
 ### Thanks for visiting!
 ![Hello Kitty GIF](https://web.archive.org/web/20090731135339/http://hk.geocities.com/hello300hk300/Hello_kitty_2.gif)
+<img src="https://web.archive.org/web/20020314024112/http://hk.geocities.com:80/jubilationjournal/starstar.gif"/>
 <!--
 
 Here are some ideas to get you started:
