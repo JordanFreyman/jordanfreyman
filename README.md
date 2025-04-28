@@ -17,7 +17,6 @@ Currently working on a 2D point-and-click game in Godot <img src="https://img.it
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanFreyman&layout=compact&theme=synthwave&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanFreyman&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 _"Believe there is good in the world."_ 🌟
