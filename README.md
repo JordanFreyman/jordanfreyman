@@ -2,7 +2,7 @@
 ### I'm Jordan. Welcome to my GitHub! <img src="https://web.archive.org/web/20091026232923/http://www.geocities.com/Tokyo/Market/7773/star.gif" width="20" />
 CS Graduate from Florida State University May 2025
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-pink?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
