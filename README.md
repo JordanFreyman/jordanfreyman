@@ -12,7 +12,6 @@ CS Graduate from Florida State University May 2025
 ![Linux](https://img.shields.io/badge/Linux-pink?style=flat&logo=linux&logoColor=white)
 ![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-pink?style=flat)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-pink?style=flat)
-![Bug Lover](https://img.shields.io/badge/Bug%20Lover-%F0%9F%90%9C-pink?style=flat)
 
 Currently working on a 2D point-and-click game in Godot <img src="https://img.itch.zone/aW1hZ2UvOTY5NTgyLzU1OTg4NjkuZ2lm/794x1000/BqczAb.gif" width="20" />
 
