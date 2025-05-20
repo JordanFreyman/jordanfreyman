@@ -8,6 +8,7 @@ CS Graduate from Florida State University May 2025
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-F7DF1E?style=flat&logo=react&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-pink?style=flat)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-pink?style=flat)
