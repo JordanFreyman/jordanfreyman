@@ -4,6 +4,7 @@ CS Graduate from Florida State University May 2025
 
 ![Python](https://img.shields.io/badge/Python-pink?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-pink?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-pink?style=flat&logo=c-sharp&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-pink?style=flat&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-pink?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-pink?style=flat&logo=css3&logoColor=white)
